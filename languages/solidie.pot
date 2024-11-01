@@ -1,0 +1,2667 @@
+# Copyright (C) 2024 Solidie
+# This file is distributed under the same license as the Solidie package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Solidie\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-24 06:35+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../solidie-pro/classes/Main.php:102
+msgid "Solidie Pro"
+msgstr ""
+
+#: ../solidie-pro/classes/Main.php:108
+msgid "Solidie Pro License"
+msgstr ""
+
+#: ../solidie-pro/classes/Main.php:132, ../solidie-pro/classes/Main.php:178
+msgid "Solidie Core"
+msgstr ""
+
+#: ../solidie-pro/classes/Main.php:139
+msgid "Solidie Pro requires Solidie Core. %s."
+msgstr ""
+
+#: ../solidie-pro/classes/Main.php:150
+msgid "WooCommerce"
+msgstr ""
+
+#: ../solidie-pro/classes/Main.php:157
+msgid "Solidie Pro requires WooCommerce for content monetization. %s."
+msgstr ""
+
+#: ../solidie-pro/classes/Main.php:221, classes/Setup/Promotion.php:87
+msgid "Install %s"
+msgstr ""
+
+#: ../solidie-pro/classes/Main.php:208, classes/Setup/Promotion.php:74
+msgid "Activate %s"
+msgstr ""
+
+#: classes/Controllers/CategoryController.php:50
+msgid "Failed to save category"
+msgstr ""
+
+#: classes/Controllers/CategoryController.php:45
+msgid "Category has been saved"
+msgstr ""
+
+#: classes/Controllers/CategoryController.php:75
+msgid "Category deleted"
+msgstr ""
+
+#: classes/Controllers/CommentController.php:47, classes/Controllers/ContentController.php:222, classes/Controllers/LessonController.php:154
+msgid "Something went wrong!"
+msgstr ""
+
+#: classes/Controllers/CommentController.php:81
+msgid "Comment has been deleted successfully"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:101
+msgid "Files were not uploaded or there is an error"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:128
+msgid "%d content created"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:126
+msgid "No content could be created"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:213
+msgid "Submitted for review successfully"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:213
+msgid "Saved successfully"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:253
+msgid "Content slug updated successfully!"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:293
+msgid "You are not authorized to delete!"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:318
+msgid "The content was not found"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:324
+msgid "The content type is not enabled"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:329
+msgid "Content not found"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:349
+msgid "Free"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:350
+msgid "This content is eligible to download for free"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:386, ../solidie-pro/classes/Controllers/ContributorController.php:31, ../solidie-pro/classes/Controllers/LicenseController.php:34
+msgid "You are not authorized!"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:485
+msgid "The release has been deleted"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:515, classes/Controllers/ContentController.php:510
+msgid "You are not authorized for the action!"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:520
+msgid "Invalid content status"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:526
+msgid "Content status has been changed"
+msgstr ""
+
+#: classes/Controllers/ContentController.php:551
+msgid "Unsupported file or something went wrong!"
+msgstr ""
+
+#: classes/Controllers/LessonController.php:76
+msgid "New lesson created. Add contents now.."
+msgstr ""
+
+#: classes/Controllers/LessonController.php:110
+msgid "Lesson delete"
+msgstr ""
+
+#: classes/Controllers/LessonController.php:132
+msgid "Lesson not found"
+msgstr ""
+
+#: classes/Controllers/LessonController.php:157
+msgid "Lesson has been published successfully!"
+msgstr ""
+
+#: classes/Controllers/LessonController.php:172
+msgid "Content not found!"
+msgstr ""
+
+#: classes/Controllers/LessonController.php:210
+msgid "Lesson slug updated successfully"
+msgstr ""
+
+#: classes/Controllers/SettingsController.php:32
+msgid "Invalid settings data"
+msgstr ""
+
+#: classes/Controllers/SettingsController.php:43
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: classes/Models/Manifest.php:37
+msgid "App"
+msgstr ""
+
+#: classes/Models/Manifest.php:39
+msgid "Apps, extensions, addons etc. for website, mobile, computer and so on."
+msgstr ""
+
+#: classes/Models/Manifest.php:43
+msgid "Audio"
+msgstr ""
+
+#: classes/Models/Manifest.php:45
+msgid "Music, beats, song and so on."
+msgstr ""
+
+#: classes/Models/Manifest.php:49
+msgid "Video"
+msgstr ""
+
+#: classes/Models/Manifest.php:51
+msgid "Vlog, cinematography, film, music videos and so on."
+msgstr ""
+
+#: classes/Models/Manifest.php:55
+msgid "Image"
+msgstr ""
+
+#: classes/Models/Manifest.php:57
+msgid "Photography, vector etc."
+msgstr ""
+
+#: classes/Models/Manifest.php:61
+msgid "3D Model"
+msgstr ""
+
+#: classes/Models/Manifest.php:63
+msgid "3D model, VFX contents, animations and so on."
+msgstr ""
+
+#: classes/Models/Manifest.php:67
+msgid "Document"
+msgstr ""
+
+#: classes/Models/Manifest.php:69
+msgid "PDF, Documents, Sheet and so on."
+msgstr ""
+
+#: classes/Models/Manifest.php:73
+msgid "Font"
+msgstr ""
+
+#: classes/Models/Manifest.php:75
+msgid "Various type of fonts"
+msgstr ""
+
+#: classes/Models/Manifest.php:79
+msgid "Classified"
+msgstr ""
+
+#: classes/Models/Manifest.php:81
+msgid "Classified listings"
+msgstr ""
+
+#: classes/Models/Manifest.php:85
+msgid "Tutorial"
+msgstr ""
+
+#: classes/Models/Manifest.php:87
+msgid "Full fledged tutorial management system."
+msgstr ""
+
+#: classes/Models/Release.php:88
+msgid "Content not found to release"
+msgstr ""
+
+#: classes/Models/Release.php:94
+msgid "First release must need downloadable file"
+msgstr ""
+
+#: classes/Models/Release.php:116
+msgid "Error in file saving!"
+msgstr ""
+
+#: classes/Setup/AdminPage.php:53
+msgid "Permalink structure must be something other than %splain%s in favour of Solidie. Please %sChange%s it now."
+msgstr ""
+
+#: classes/Setup/AdminPage.php:76, classes/Setup/AdminPage.php:77
+msgid "Solidie"
+msgstr ""
+
+#: classes/Setup/AdminPage.php:88, classes/Setup/AdminPage.php:89
+msgid "Home"
+msgstr ""
+
+#: classes/Setup/AdminPage.php:98, classes/Setup/AdminPage.php:99
+msgid "Inventory"
+msgstr ""
+
+#: classes/Setup/AdminPage.php:110, classes/Setup/AdminPage.php:111
+msgid "Settings"
+msgstr ""
+
+#: classes/Setup/Promotion.php:28, ../solidie-pro/classes/Setup/Dashboard.php:56
+msgid "Dashboard"
+msgstr ""
+
+#: classes/Setup/Promotion.php:43
+msgid "Pro"
+msgstr ""
+
+#: classes/Setup/Promotion.php:36
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: classes/Setup/Route.php:109
+msgid "Gallery"
+msgstr ""
+
+#: classes/Setup/Route.php:170
+msgid "Content Not Found"
+msgstr ""
+
+#: classes/Setup/Shortcode.php:73
+msgid "Individual content URL won't work properly if your set this page as home"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/ContentController.php:65
+msgid "Product Not Fund!"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/ContentController.php:75
+msgid "Added to cart"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/ContentController.php:136, ../solidie-pro/classes/Controllers/ContentController.php:189, ../solidie-pro/classes/Controllers/LicenseController.php:29
+msgid "Sale not found"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/ContentController.php:259
+msgid "Invalid content type"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/ContributorController.php:37
+msgid "Invalid status"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/ContributorController.php:49
+msgid "You can not change the application status currently!"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:57
+msgid "Access denied!"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:87
+msgid "Withdrawal method saved"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:115
+msgid "Minimum withdrawal amount %d"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:120
+msgid "Insufficient balance"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:125, ../solidie-pro/classes/Controllers/EarningController.php:130
+msgid "Invalid withdrawal method"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:136
+msgid "Withdrawal request submitted"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:184
+msgid "The request was not found"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:189
+msgid "You are not authorized to cancel!"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:194
+msgid "You are not authorized fot the action!"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:199
+msgid "The request can not be cancelled as processing started already"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:204
+msgid "The withdrawal request has been cancelled meanwhile!"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:208
+msgid "Invalid withdrawal status passes"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/EarningController.php:214
+msgid "Withdrawal request status has been updated"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/LicenseController.php:41
+msgid "You have reached the limit"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/UserController.php:44
+msgid "Password changed successfully"
+msgstr ""
+
+#: ../solidie-pro/classes/Controllers/UserController.php:47
+msgid "Invalid current password"
+msgstr ""
+
+#: ../solidie-pro/classes/Models/ContentPack.php:48
+msgid "%s Content Pack"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/Dashboard.php:133, ../solidie-pro/classes/Setup/Dashboard.php:134
+msgid "Withdrawals"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/Dashboard.php:142, ../solidie-pro/classes/Setup/Dashboard.php:143
+msgid "Contributors"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/Dashboard.php:151, ../solidie-pro/classes/Setup/Dashboard.php:152
+msgid "Reports"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/Dashboard.php:170, ../solidie-pro/classes/Setup/Dashboard.php:171
+msgid "My Dashboard"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/Dashboard.php:230
+msgid "User Dashboard"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/Dashboard.php:231
+msgid "Dedicated dashboard for contributors and customers."
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:100
+msgid "Invalid Request Data"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:115
+msgid "Free apps do not need license activation"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:127
+msgid "Invalid action!"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:142
+msgid "App not found"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:144
+msgid "The app you are trying to activate license for was not found on the server!"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:166
+msgid "Invalid License Key"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:181
+msgid "The license key is in use somewhere else already."
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:192
+msgid "The license key is not associated with your endpoint."
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:218
+msgid "License activated succefully"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/RestAPI.php:211
+msgid "The license is activated already"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/Socket.php:24
+msgid "Invalid data"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/Socket.php:33
+msgid "Nonce not matched"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/WooCommerce.php:142
+msgid "Public contribution is not enabled"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/WooCommerce.php:151
+msgid "You have reached daily post limit %d"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/WooCommerce.php:293
+msgid "WooCommerce guest checkout must be disabled for Solidie monetization"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/WooCommerce.php:294
+msgid "Go Disable"
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/WooCommerce.php:301
+msgid "This product was created programmatically by Solidie. Do not edit manually unless you know the consequences."
+msgstr ""
+
+#: ../solidie-pro/classes/Setup/WooCommerce.php:507
+msgid "Plan"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sure to delete?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sub categories also will be deleted if there is any."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Category Name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Parent Category"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Cancel"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Create"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Update"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add Category"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Like"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Rating"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "None"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content Type Label"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Base Slug"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Show thumbnail in single page"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enable"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enable commenting"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Show contributor info"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Reaction Type"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Would you like to show dislike too?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enable dislike"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Supported Country"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select Country"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Update API Path"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Categories"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Request"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Response"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "See API Request Data Structure"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Hide Data"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "License Key Activation"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Update Check"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "General Settings"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Configure all the content management, sales and contributor related settings in one place"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "General"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Global Settings Applied to the Entire Plugin"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contents per page"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Materials Color"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Set color for materials like button, radio, checkbox etc."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Texts Color"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Set color for all the independent texts"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Gallery"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Gallery and single page settings"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Gallery Page"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select Page"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Free download label"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Free download description"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enable content sitemap"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Applicable if search engine visibility is turned on"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Cloud Storage"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Currently we support only Digital Ocean Space"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enable Digital Ocean Space"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Bucket Name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Bucket Region"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Access Key"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Secret Key"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content Types"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Configure the content types to showcase"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Save Changes"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Free"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sort"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Trending"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "New Arrival"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No content type is enabled"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Category"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "- Select State - "
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No result!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Filter"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Clear"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Done"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Clear Filters"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sure to delete the comment?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s Comments"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s Comment"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Log in to comment"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Submit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Delete"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Load More.."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Remove from saved items"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Save for later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "You might also like"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Telegram"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enter number"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Whatsapp"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Skype"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enter name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "SMS"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Call"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Email"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enter address"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Price:"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Reach Me"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Stay Alert"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Never share your banking card details or OTP."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Always verify the product or service before making a payment."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "We do not provide delivery services nor liable for any consequences."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Always stay cautious."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Start Learning"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Download"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Something went wrong"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Back to Gallery"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Back"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Samples"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Previous"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Next"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Something went wrong!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Lessons"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Lesson not found or may not be published yet!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Inventory"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content Editor"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Untitled %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Country"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "State/Provice"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select State"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Address"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Price/Payment"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Title"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Give it a title"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Thumbnail Image"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Description"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Write some description here"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Tags"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Preview File"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sneak peek for onsite playback. Supports: %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Please make sure the  aspect ratio of video and thumbnail is same."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sample Image/Videos (Max 10)"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Downloadable File"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Supports: %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s Files"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Max Allowed files are 50, however please upload as less files as per your server capability."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select category"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Create Bulk %s Contents"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Once you submit, separate posts will be created per file."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add New %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Overview"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Release Management"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Loading..."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Write description.."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Save Draft"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sure to publish?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Publish"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Please enter content title first"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Invalid file selected"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Max file size is %s MB"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Invalid content attachment"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Version"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Changelog"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "New file"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sure to delete %s?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Please save the overview first"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Lesson Title"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Parent Lesson"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Lesson Content"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add Lesson"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Draft"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Published"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Unpublished"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Pending"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Rejected"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "The content is not yet published"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "The content is published and is live"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "The content has been unpublished"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "The content is pending for review"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "The content has been rejected, need to fix inappropriate stuffs."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Edit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Releases"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "What would you like to showcase?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select One"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Start"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No content type is enabled."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Please contact the site administrator."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Check Content Types"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "All the associated data also will be deleted permanently."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sure to change status?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s Inventory"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content Type"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Status"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enter Keyword"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contributor"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Price"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Bundled In"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Downloads"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Created"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "ID"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Action"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No %s found"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add New"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Approved"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Revoked"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contributors"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Search.."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contents"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Earned"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Withdrawn"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Awaiting due to defined delay"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Awaiting"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Withdrawable"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select Status"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No result"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Audio"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Video"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Image"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Youtube"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Custom dashboard for customers and contributors"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Dashboard URL base"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contributions models"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Paid"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contributor approval requires"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Supported attachment types"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Media types for contributors to attach in content and lesson editor"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Max file size"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Set the maximum allowed file size in MB."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Daily content limit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "How many content third party contributor can submit daily"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content approval"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "New Only"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "New and Updates"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No need approval"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content Deletion"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Can contributors delete their contents or not. All the associated data also gets deleted."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Learn More.."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Pricing control for contributors"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contributor commision (%)"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "The percentage contributor will get per sale"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contributor reveneue delay"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "How many days after sale the earning will be available to withdraw"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Minimum withdrawal amount"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Messaging"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Messsaging configuration among users"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enable messaging between users"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Socket server URL"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Redirect linked product"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Whether to redirect linked WooCommerce product to Solidie content"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Redirect with status code"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Auto complete order on payment completion"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Not recommended if you sell offline products too"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "App Purchase Information"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content Access:"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enabled"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Yes"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Expires"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Never"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Lifetime"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "License Key Limit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Download Limit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No Limit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Unlimited"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Main Order"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Renewals"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "License Keys"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add New Plan"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Pricing plan gets created in global scope that you can configure per content."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "+ Add New Plan"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Regular Price"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sale Price"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Subscription"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "License"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Open Linked Product"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Monetization Requires WooCommerce"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Monetization"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Pricing Plan"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Fetching pricing.."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No monetization plan is set up yet."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Please contact site admin"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Supported Bundles"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Licenses"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Optional Purchase"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Allow access without purchase"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Allow downloading without purchase"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Monthly"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Yearly"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Single %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s Bundle"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Plan Name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sales Model"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Auto include all %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Auto enable for new %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Subscription Model"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Default Regular Price"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Default Sale Price"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Remove plan?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Monetization Plans"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "+ Add Plan"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "+ Add More Plan"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Gross Revenue"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contributor Commission"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Total Refunds"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Net Revenue"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Recent Sales"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Show All"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Item"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Order Status"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Date"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No Sales Found"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content recently published"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Recent Contents"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No contents yet"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Recent Contributors"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No contributor yet"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Recent Payouts"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No disbursement made yet"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sales"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Invalid Component"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No payment gateway to proceed"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "View Cart"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "View Purchases"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Subscription Expired"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Access Limit Reached"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Renew Now"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No payment gateway is setup yet"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add to Cart"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No plan found to purchase"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Donwload"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Added to cart"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Purchased already"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Bundle"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sure to logout?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Logout"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Messages will appear once you start conversations"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Loading User.."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No message found"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Write message.."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Chat with"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Apply for contribution?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Cancel the application?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Your contributor application is currently awaiting approval."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Cancel Request!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Unfortunately, your contributor application has not been approved."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Your contributor status has been revoked."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Are you interested in becoming a contributor?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Apply now!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Withdrawal"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Available to"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Withdraw"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Awaiting to be Available"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Total Withdrawn"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Set up withdrawal method first"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Setup"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Insufficient balance."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Minimum threshold is %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Request Withdrawal"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Amount"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Withdrawal Method"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Order"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Total"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No order yet!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Order #%s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Order not found!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Items"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sub Total"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Payment Method"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Billing Address"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Shipping Address"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Subtotal"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Order ID"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Created Keys"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Connected Keys"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Key"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Connected To"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Click to copy"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Delete key"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Regenerate Key"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sure to regenerate?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No license key found!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Plan"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Purchase Date"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Expire Date"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Start Reading"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Explore"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Renew"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Deleted Content"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Download History"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Opened %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Downlod Date"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Downloaded contents will apepar here."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No history"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "First Name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Lat Name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Preferred Name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Current Password"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "New Password"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Retype New Password"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "You will be logged out after changing password."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Account"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Password"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Paypal"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Paypal Email"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Payoneer"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Payoneer Email"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Interac"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Interac e-Transfer Email"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Wise"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Wise Email"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Bank"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Account Holder"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Account Number"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Bank Name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Branch Name"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Account Type"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Checking"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Savings"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Routing Number"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "IBAN"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "SWIFT/BIC Code"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Save"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Remove from wishlist?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Date Added"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Remove"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No items saved yet"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Purchased Contents"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "My Orders"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Earnings"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Saved Items"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Messages"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Settings"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Pending payment"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Processing"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "On hold"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Completed"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Cancelled"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Refunded"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Failed"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Earning"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Content Title"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No sales yet!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sent"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Change withdrawal status?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Receiving Account"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Withdrawals"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contributor Email"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Method"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Contributor can cancel the request as long as it is in Pending status"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sure to cancel withdrawal request?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No request!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "completed"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "See full view"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "See short view"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Upload failed: %s exceeds %sMB limit."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Replace File"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Browse"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "or, Just drop another"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "or, Just drop it here"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add child"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Visit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Untitled"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Loading Document"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Failed to open PDF."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Download Instead."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Try Again"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Dismiss"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Unit\\Flat"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Street Address"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "City"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Province"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Postal/Zip Code"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Monday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Tuesday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Wednesday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Thursday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Friday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Saturday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sunday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Archived"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Expired"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "PDF"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "DOC"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "DOCX"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "JPG"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "JPEG"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "PNG"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "MP3"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "WAV"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "MP4"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "MOV"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "ZIP"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "RAR"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "12 Hours"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "24 Hours"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "0"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "1"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "2"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "3"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "4"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "5"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "6"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "7"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "8"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "9"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "End time must be later than start time"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Time"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "January"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "February"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "March"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "April"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "May"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "June"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "July"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "August"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "September"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "October"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "November"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "December"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Copied to clipboard"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Error copying to clipboard"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Remote"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s year later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s years later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s month later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s months later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s week later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s weeks later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s day later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s days later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s hour later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s hours later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s minute later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s minutes later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Less than a minute later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s year ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s years ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s month ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s months ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s week ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s weeks ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s day ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s days ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s hour ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s hours ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s minute ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s minutes ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s second ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s seconds ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add "%s""
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Looks like the JS script is loaded as part of a combined file. Please disable combining them and load from plugin folder directly."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "File size must be less than %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Total size must be less than %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Facebook"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Linkedin"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Twitter"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Reddit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Share"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Copy"
+msgstr ""
